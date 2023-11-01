@@ -1,4 +1,4 @@
-# Spacetime - Front-End
+<h1 align="center"> Spacetime - Front End </h1>
 
 <div align="center">
   <img src="./public/preview.jpg" alt="demonstração do projeto" >
@@ -12,7 +12,7 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 
 ## 2 - Tecnologias
 
-Um pouco das tecnologias que foram utilizadas no projeto: 
+Um pouco das tecnologias que foram utilizadas no projeto:
 
 - NextJS
 - TypeScript
@@ -34,8 +34,8 @@ $ git clone https://github.com/felipems1/spacetime-web.git
 2. Acesse a pasta e instale as dependências via terminal:
 $ yarn install / npm install
 
-3. Em seguida, crie um arquivo .env, copiando o formato do arquivo .env.example:
-$ env.example -> .env
+3. Em seguida, crie um arquivo .env.local, copiando o formato do arquivo .env.local.example:
+$ .env.local.example -> .env.local
 
 4. Inicie a aplicação em modo de desenvolvimento:
 $ yarn dev / npm run dev
